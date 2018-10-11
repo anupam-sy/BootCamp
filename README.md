@@ -1,0 +1,1 @@
+This Lab contains the solutions of commonly asked programming interview questions for freshers.
